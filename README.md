@@ -1,4 +1,4 @@
-# Welcom to Mat Util Repositiory
+# Welcom to Math Util Repositiory
 
 ### You will find in this repo the following stuff: 
 * The MathUtil.java - a replication version of the famous JDK's util class - Math 
