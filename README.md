@@ -8,7 +8,6 @@
 
 ### Screen-shots
 
-
 ![Build process with Ant]	(https://github.com/minhtam250314/math-util-1613/blob/main/screenshot/build-process-with-ant.png)
 
 ![DDT source code using JUnit]	(https://github.com/minhtam250314/math-util-1613/blob/main/screenshot/unit-test-with-ddt.png)
